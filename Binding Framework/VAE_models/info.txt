@@ -1,0 +1,5 @@
+saved_model_parameters.pt -> trained on 600 cubes (NC1, NC2, NC1 - corner 0 missing, NC2 - corner 2 missing) 150 Cubes each
+										 with sidelength between 0.5 and 3 and center always beeing (0, 0, 0)traines without vis_marker
+
+
+
